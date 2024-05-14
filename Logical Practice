@@ -25,4 +25,4 @@ public void method3() {
 	System.out.print("여자이신가요? : " + result);
 		
 	}
-	
+	$ git reset
