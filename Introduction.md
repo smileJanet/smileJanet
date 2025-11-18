@@ -1,14 +1,42 @@
-👋 **Hi! I'm Janet.**
+# 👋 Hi! I'm Janet.
 
-🎒 Full-stack developer specializing in Java and modern web technologies.
-✨ This GitHub will be my place for projects, notes, and small experiments.
+**Full-stack developer specializing in Java and modern web technologies.**
 
-🌱 **Tech Stacks** :
-Backend: Java, Spring Framework  
-Frontend: JavaScript, TypeScript, React, Vue.js  
+✨ This GitHub is my place for projects, notes, and small experiments as I continue to grow as a developer.
 
-💻 **Interests**: Web development, UI/UX  
-📫 **Contact**: janudevelopment@gmail.com
-💜 **What You'll find here**: This repository contains my project portfolio, technical notes, and experimental work as I continue to grow as a developer.
+---
 
-Thanks for visiting my GitHub! 🚀
+## 🌱 Tech Stack
+
+**Backend**  
+`Java` `Spring Framework`
+
+**Frontend**  
+`JavaScript` `TypeScript` `React` `Vue.js`
+
+---
+
+## 💻 Interests
+
+- Web Development
+- UI/UX Design
+
+---
+
+## 💜 What You'll Find Here
+
+This repository contains my **project portfolio**, **technical notes**, and **experimental work** as I explore and learn new technologies.
+
+---
+
+## 📫 Get in Touch
+
+**Email:** [janudevelopment@gmail.com](mailto:janudevelopment@gmail.com)
+
+---
+
+<div align="center">
+  
+**Thanks for visiting my GitHub!** 🚀
+
+</div>
