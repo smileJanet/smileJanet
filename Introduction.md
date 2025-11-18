@@ -10,7 +10,7 @@
 `Java` `Spring` `React` `Vue3.js` `TypeScript` `Oracle` `PostgreSQL`
 
 <details>
-<summary>📦 View More </summary>
+<summary>📦 View More! </summary>
 
 ### Front-end
 - **Core:** HTML5, CSS3, JavaScript, TypeScript
