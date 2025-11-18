@@ -36,6 +36,7 @@
 ## 💻 Interests
 
 - Web Development
+- Personal Toy projects
 - UI/UX Design
 
 
