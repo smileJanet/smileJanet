@@ -5,28 +5,43 @@
 ✨ This GitHub is my place for projects, notes, and small experiments as I continue to grow as a developer.
 
 
-
 ## 🌱 Tech Stack
 
-**Backend**  
-`Java` `Spring Framework`
+`Java` `Spring` `React` `Vue3.js` `TypeScript` `Oracle` `PostgreSQL`
 
-**Frontend**  
-`JavaScript` `TypeScript` `React` `Vue.js`
+<details>
+<summary>📦 View More </summary>
 
+### Front-end
+- **Core:** HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks:** React, Vue3.js
+- **Tools:** Vite, Node.js
+
+### Back-end
+- **Language:** Java
+- **Framework:** Spring, MyBatis
+
+### Database
+- Oracle (SQL), PostgreSQL
+
+### Development Environment
+- **IDE:** IntelliJ, VSCode
+- **WAS:** Apache Tomcat 9.0
+- **Version Control:** Git, GitHub
+- **Collaboration:** Notion, Figma
+
+</details>
 
 
 ## 💻 Interests
 
 - Web Development
 - UI/UX Design
-- Personal Toy Projects
 
 
 ## 💜 What You'll Find Here
 
 This repository contains my **project portfolio**, **technical notes**, and **experimental work** as I explore and learn new technologies.
-
 
 
 ## 📫 Get in Touch
